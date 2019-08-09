@@ -11,7 +11,8 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * 
  * Cookie 工具类  孙杠精1 344444 
- * 呃呃呃八八八八
+ * 呃呃呃
+ * 吧吧
  *
  */
 public final class CookieUtils {
